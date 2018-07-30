@@ -1,3 +1,3 @@
 # green-color-detection
-basically it detects the green part in your live video stream.
+basically it detects obects which are  green  in your live video stream.
 please use jupyter notebook to run this program.
